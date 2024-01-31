@@ -1,0 +1,15 @@
+if(1){
+    console.log(1)
+}
+if([]){
+    console.log([])
+}
+if(""){
+    console.log("")
+}
+if(null){
+    console.log(null)
+}
+if(undefined){
+    console.log(undefined)
+}
